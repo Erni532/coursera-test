@@ -1,0 +1,43 @@
+
+<div>
+  <h2>Ernest's Page of Interests</h2>
+  <p>The world wants to know: who is Ernest? Read this page to learn about Ernest's likes (and maybe his dislikes)!</p>
+</div>
+<div>
+  <h3>What's Your Top?</h3>
+  <p>Ernest was recently asked about his top movies, musicians, and places he has visited. Here are his answers!</p>
+  <h3>Movies</h3>
+ <ol type = "1" start = "1">
+   <li>The Disgusting Eight</li>
+   <li>Django Unchained</li>
+   <li>Kill Bill</li>
+   <li>Pulp fiction</li>
+   <li>Mad Dogs</li>
+  </ol>
+  <h3>Music Artists</h3>
+  <ul>
+  <li>
+    <h4>Hollywood Undead</h4>
+    <img src="https://cdn.hipwallpaper.com/i/9/96/8RaDE3.jpg" width="200px"></li>
+  <li>
+    <h4>Fox</h4>
+    <img src="https://34mag.me/piarshak/content/editor_images/2018content/december/lisa/3_IMG_2220-2.jpg" width="200px"></li>
+  <li>
+    <h4>Aleksey Ponamorev</h4>
+    <img src="https://sun9-85.userapi.com/c10987/g10492068/a_059d8bef.jpg" width="200px"></li>
+  </ul>
+  <h3>Places I've Visited</h3>
+  <ul>
+  <li>Athens</li>
+  <li>Moscow</li>
+  </ul>
+</div>
+
+<div>
+  <h2>I love soft colors</h2>
+<img src="https://cdn.pixabay.com/photo/2020/10/12/22/15/glass-5650335_960_720.jpg" width="400px">
+</div>
+
+<div>
+<a href="https://www.youtube.com/user/ByHyped" target="blank_">My idol</a>
+</div>
